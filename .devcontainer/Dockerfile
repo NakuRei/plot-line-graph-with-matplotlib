@@ -14,7 +14,9 @@ ENV TZ JST-9
 ENV TERM xterm
 
 RUN apt update -y \
-    && apt install -y git
+    && apt install -y \
+    git \
+    fonts-ricty-diminished
 
 RUN pip install --upgrade pip
 RUN pip install --upgrade setuptools

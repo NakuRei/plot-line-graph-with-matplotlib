@@ -1,6 +1,11 @@
 {
     "recommendations": [
         "streetsidesoftware.code-spell-checker",
-        "oderwat.indent-rainbow"
+        "oderwat.indent-rainbow",
+        "naumovs.color-highlight",
+        "saikou9901.evilinspector",
+        "mhutchie.git-graph",
+        "gruntfuggly.todo-tree",
+        "shardulm94.trailing-spaces"
     ]
 }
